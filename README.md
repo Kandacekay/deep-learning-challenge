@@ -1,4 +1,4 @@
-# deep-machine-learning
+# neural_networks
 
 # Neural Network Model Performance Report
 ### Overview of the Analysis:
