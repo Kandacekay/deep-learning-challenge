@@ -1,4 +1,4 @@
-# deep-learning-challenge
+# deep-machine-learning
 
 # Neural Network Model Performance Report
 ### Overview of the Analysis:
